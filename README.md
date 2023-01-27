@@ -11,7 +11,8 @@ On the left upper side you can add a plot by clicking the __Add__ button. After 
   - __X Variable__ (Variable on the x-axis)
   - __Y Variable__ (Variable on the y-axis, only applicable for Scatter and Timeline)
   - __Color Item__ (Variable to color the datapoints, can be discrete (e.g. Genotype) or numerical (e.g. SARA sum score))
-  - 
+  - __Time span of a visit__ (Select how many days between two observations you allow to consider them as observed in one visit)
+  - __Visit__ (Select which visits you want to observe: All visits, first visits or follow-up visits. Whn selecting follow-up you can select the time (in months) after the first visit and a tolerance that allows for instance to include 13 month follow-up to consider within the yearly follow-up )
 
 #### Filtering the current population
 
