@@ -3,4 +3,4 @@ Documentation for SCAView
 
 
 ## Get access
-Please write a message to Jennifer Faber (jennifer.faber@dzne.de) or Philipp Wegner (philipp.wegner@dzne.de)
+All members of the Ataxia Global Initiative are granted access to SCAview. Further details how to apply for AGI membership can be found (here)[https://ataxia-global-initiative.net/governance/membership/].
