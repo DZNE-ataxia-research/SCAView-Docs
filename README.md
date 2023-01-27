@@ -26,5 +26,5 @@ This subgroup can then be re-applied (after removing the current filter) to your
 #### Reseting a filter 
 You can delete the sub-groups by clicking on the garbage can icon right next to the sub-group name. The complete session can be reset by clicking on __Reset Session__.
 
-## Issue
+## Issues
 If you run into any further issues please use the issue board: https://github.com/DZNE-ataxia-research/SCAView-Docs/issues
