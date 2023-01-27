@@ -17,7 +17,7 @@ On the left upper side you can add a plot by clicking the __Add__ button. After 
   - __Legend__ (Whether or not you want to have plots to have a legend)
 
 #### Filtering the current population
-All plots allow to draw a rectangle into the plots to select a filter. Note that filters are always applied globally which means the filter you select for Plot 1 will also be applied to Plot 2. Once yoou select a filter the current population gets reduced accoring to the filter. Generally you have the option to filter patient-wise or visit-wise. Patient-wise filtering means to include all observations for a certain patient into the current sub-population if the patient has at least one observation that fits the filter. Visit-wise filtering means that you only select those visits from each patient that match the current filter. 
+All plots allow to draw a rectangle into the plots to select a filter. Note that filters are always applied globally which means the filter you select for Plot 1 will also be applied to Plot 2. Once yoou select a filter the current population gets reduced accoring to the filter. Generally you have the option to filter patient-wise or visit-wise. Patient-wise filtering means to include all observations for a certain patient into the current sub-population if the patient has at least one observation that fits the filter. Visit-wise filtering means that you only select those visits from each patient that match the current filter. Furthermore, you can 
 
 #### Saving the current filter 
 
