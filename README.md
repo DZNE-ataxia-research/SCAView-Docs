@@ -17,10 +17,13 @@ On the left upper side you can add a plot by clicking the __Add__ button. After 
   - __Legend__ (Whether or not you want to have plots to have a legend)
 
 #### Filtering the current population
-All plots allow to draw a rectangle into the plots to select a filter. Note that filters are always applied globally which means the filter you select for Plot 1 will also be applied to Plot 2. Once yoou select a filter the current population gets reduced accoring to the filter. Generally you have the option to filter patient-wise or visit-wise. Patient-wise filtering means to include all observations for a certain patient into the current sub-population if the patient has at least one observation that fits the filter. Visit-wise filtering means that you only select those visits from each patient that match the current filter. Furthermore, you can 
+All plots allow to draw a rectangle into the plots to select a filter. Note that filters are always applied globally which means the filter you select for Plot 1 will also be applied to Plot 2. Once yoou select a filter the current population gets reduced accoring to the filter. Generally you have the option to filter patient-wise or visit-wise. Patient-wise filtering means to include all observations for a certain patient into the current sub-population if the patient has at least one observation that fits the filter. Visit-wise filtering means that you only select those visits from each patient that match the current filter. Furthermore, you can see the current filters and can edit or delete them. Re-drwing a rectangle over the current filter updates the current filter. 
 
 #### Saving the current filter 
+If you have a filter setting that you want to persist in the current session you can save it as a subgroup by giving it a name and then click __Define__.
+This subgroup can then be re-applied (after removing the current filter) to your plots by clicking on the sub-group name listed on the bottom of the filter settings box.
 
 #### Reseting a filter 
+You can delete the sub-groups by clicking on the garbage can icon right next to the sub-group name. The complete session can be reset by clicking on __Reset Session__.
 
 
