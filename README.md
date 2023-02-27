@@ -28,7 +28,7 @@ You can delete the sub-groups by clicking on the garbage can icon right next to 
 
 ## Datamodel 
 
-![Datamodel](Attributes-Table%201.pdf)
+[Datamodel](Attributes-Table%201.pdf The current datamodel)
 
 ## Issues
 If you run into any further issues please use the issue board: https://github.com/DZNE-ataxia-research/SCAView-Docs/issues
